@@ -1,4 +1,4 @@
-# superheros
+# hero-merge
 
 > A Vue.js project
 
